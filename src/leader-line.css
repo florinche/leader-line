@@ -3,6 +3,7 @@
   overflow: visible !important;
   pointer-events: none !important;
   font-size: 16px;
+  z-index: 15;
 }
 
 #leader-line-defs {
